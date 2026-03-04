@@ -684,6 +684,17 @@
         "url": "https://github.com/semgrep/mcp-marketplace.git"
       },
       "homepage": "https://github.com/semgrep/mcp-marketplace.git"
+    },
+    {
+      "name": "aws",
+      "description": "Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS.",
+      "category": "cloud",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/awslabs/agent-plugins.git"
+      },
+      "homepage": "https://github.com/awslabs/agent-plugins",
+      "tags": ["architecture", "aws", "cloud", "deployment", "infrastructure", "migration", "operations"]
     }
   ]
 }
